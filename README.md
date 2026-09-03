@@ -113,8 +113,6 @@ O sistema será iniciado diretamente no terminal e apresentará o menu principal
 **Linguagem:** Python
 **Ano:** 2025.1
 
-O problema propunha a construção de um algoritmo em fluxograma, seu código-fonte em Python e um relatório descrevendo o desenvolvimento do sistema.
-
 ## Autoria
 
 Projeto desenvolvido individualmente como atividade acadêmica da MI de Algoritmos.
