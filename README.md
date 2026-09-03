@@ -88,7 +88,7 @@ Esses dados são contabilizados durante a utilização do sistema.
 Clone o repositório:
 
 ```bash
-git clone [URL_DO_REPOSITORIO](https://github.com/boosetudo/Sistema-de-Bilhetagem-de-Transporte-P-blico.git)
+git clone https://github.com/boosetudo/Sistema-de-Bilhetagem-de-Transporte-P-blico.git
 ```
 
 Entre na pasta do projeto:
