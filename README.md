@@ -83,7 +83,7 @@ Esses dados são contabilizados durante a utilização do sistema.
 * Variáveis e operações aritméticas
 * Formatação de strings com *f-strings*
 
-## ▶️ Como executar
+## Como executar
 
 Clone o repositório:
 
